@@ -29,3 +29,10 @@ Once you are in the project's root folder
  $ python main.py
 ```
 
+
+ Once the UI is initialized go to File -> Open an Image and select one image from the "train" folder
+ 
+  Segmentation -> Execute (You can play around with the different segmentators or configurations to see what happens, but i suggest   using the preconfigured ones)
+
+
+
