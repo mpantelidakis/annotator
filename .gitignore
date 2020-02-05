@@ -1,0 +1,5 @@
+*.pyc
+data/*
+!data/train_labels/
+!data/train/
+!data/class_dict.csv
