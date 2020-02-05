@@ -42,6 +42,7 @@ After the segmentation finishes, you will see that the image is now split and ea
 2. Click on the segments that correspond to this class
 
 **Make sure to annotate all the segments in the image**
+
 **If you missclick by accident, pick the correct class and click again**
 
 You can find the generated mask for your image inside data/train_labels
