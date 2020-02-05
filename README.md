@@ -1,7 +1,7 @@
 
-#### Installation
+### Installation
 
-### Windows
+## Windows
 
  Download and install Anaconda for Python 2.7 64-bit https://www.anaconda.com/distribution/
  
@@ -13,7 +13,7 @@
  $ pip install -r requeriments.txt
  ```
 
-#### How to use
+## How to use
 
 Once you are in the project's root folder
 
