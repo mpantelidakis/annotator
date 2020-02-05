@@ -45,6 +45,8 @@ After the segmentation finishes, you will see that the image is now split and ea
 
 **If you missclick by accident, pick the correct class and click again**
 
+**Finally, if you open an already annotated image, the annotation will be reset, so keep track of your completed images**
+
 You can find the generated mask for your image inside data/train_labels
 
 
