@@ -17,6 +17,8 @@
 
 ### How to use
 
+Put all the images assigned to you inside  > data/train
+
 Once you are in the project's root folder
 
 ```
