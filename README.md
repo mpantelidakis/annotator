@@ -15,7 +15,9 @@
  
  Change directory to the project's root folder
  
+ ```
  $ pip install -r requeriments.txt
+ ```
 
 #### Linux 
 
