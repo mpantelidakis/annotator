@@ -7,7 +7,9 @@
  
  Open an Anaconda2 terminal
  
- Change directory to the project's root folder
+ ```
+ $ cd path/to/your/project
+ ```
  
  ```
  $ pip install -r requeriments.txt
