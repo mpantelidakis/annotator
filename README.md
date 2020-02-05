@@ -1,11 +1,5 @@
 
-```
- $ cd src
-```
-
-```
- $ python main.py
-```
+#### Installation
 
 ### Windows
 
@@ -19,5 +13,15 @@
  $ pip install -r requeriments.txt
  ```
 
-#### Linux 
+#### How to use
+
+Once you are in the project's root folder
+
+```
+ $ cd src
+```
+
+```
+ $ python main.py
+```
 
