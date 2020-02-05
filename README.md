@@ -38,8 +38,8 @@ After the segmentation finishes, you will see that the image is now split and ea
 
 ### Annotation steps
 
-1. Pick a class (located on the left of the panel)
-2. Click on the segments that correspond to this class
+1.  Pick a class (located on the left of the panel)
+2.  Click on the segments that correspond to this class
 
 **Make sure to annotate all the segments in the image**
 
