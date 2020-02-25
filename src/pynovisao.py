@@ -205,7 +205,7 @@ class Act(object):
                 print("Mask already exists in folder: ", labels_dir)
 
                 img = Image.open(imagename)
-                mask = Image.new( 'RGB', (img.size[0],img.size[1]), "black") # create a new black image
+                mask = Image.new( 'RGB', (img.size[0],img.size[1]), "Brown") # create a new brown image
                 mask.save(self.path_to_mask_png)
 
                 if os.path.isfile(self.path_to_mask_png):
@@ -218,7 +218,7 @@ class Act(object):
                 print("Creating a new mask...")
             
                 img = Image.open(imagename)
-                mask = Image.new( 'RGB', (img.size[0],img.size[1]), "black") # create a new black image
+                mask = Image.new( 'RGB', (img.size[0],img.size[1]), "Brown") # create a new brown image
                 mask.save(self.path_to_mask_png)
                 
                 if os.path.isfile(self.path_to_mask_png):

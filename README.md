@@ -38,10 +38,8 @@ After the segmentation finishes, you will see that the image is now split and ea
 
 ### Annotation steps
 
-1.  Pick a class (located on the left of the panel)
-2.  Click on the segments that correspond to this class
-
-**Make sure to annotate all the segments in the image**
+1.  By default all segments are annotated as Noise.
+2.  Click on the Sunlit class (on the left of the panel) and annotate the sunlit leaves.
 
 **If you missclick by accident, pick the correct class and click again**
 
