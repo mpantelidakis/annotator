@@ -21,7 +21,7 @@ from .skimage_segmenter import SkimageSegmenter
 class Felzenszwalb(Segmenter, SkimageSegmenter):
     """Run Felzenszwalb's method segmentation."""
     
-    def __init__(self, scale = 180.0, sigma = 1.3, min_size = 50, border_color = 'Yellow', border_outline = 'No'):
+    def __init__(self, scale = 200.0, sigma = 0.1, min_size = 50, border_color = 'Yellow', border_outline = 'No'):
         """Constructor.
 
         Parameters

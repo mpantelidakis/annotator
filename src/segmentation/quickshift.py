@@ -21,7 +21,7 @@ from .skimage_segmenter import SkimageSegmenter
 class Quickshift(Segmenter, SkimageSegmenter):
     """Run Quickshift segmentation."""
 
-    def __init__(self, ratio = 0.1, kernel_size = 4.0, max_dist = 15.0, border_color = 'Yellow', border_outline = 'No'):
+    def __init__(self, ratio = 0.1, kernel_size = 2.1, max_dist = 15.0, border_color = 'Yellow', border_outline = 'No'):
         """Constructor.
 
         Parameters
